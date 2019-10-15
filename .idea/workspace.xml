@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b031ae-273c-4e6c-b934-cfb0c849585b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01-commonjs/a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-commonjs/a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-commonjs/b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-commonjs/c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-commonjs/说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es6/b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-module/dart.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-module/http-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-module/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-module/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-module/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inner-module/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inner-module/Yinglee.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inner-module/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inner-module/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inner-module/path-test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner-module/dart.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner-module/http-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/inner-module/http-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner-module/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/inner-module/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,55 +24,77 @@
     <session id="-2130237181">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
+          <entry key="css" value="2" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
-          <entry key="js" value="9" />
+          <entry key="js" value="10" />
           <entry key="json" value="3" />
           <entry key="说明" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
+          <entry key="CSS" value="2" />
           <entry key="HTML" value="1" />
           <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="9" />
+          <entry key="JavaScript" value="10" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="css" value="19" />
           <entry key="gitignore" value="19" />
-          <entry key="html" value="21" />
-          <entry key="js" value="1438" />
+          <entry key="html" value="110" />
+          <entry key="js" value="2116" />
           <entry key="json" value="12" />
           <entry key="说明" value="570" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="21" />
+          <entry key="CSS" value="19" />
+          <entry key="HTML" value="110" />
           <entry key="JSON" value="12" />
-          <entry key="JavaScript" value="1438" />
+          <entry key="JavaScript" value="2116" />
           <entry key="PLAIN_TEXT" value="589" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inner-module/http-server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="346">
+              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inner-module/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inner-module/path-test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -88,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inner-module/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="240">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -99,8 +113,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -118,6 +133,8 @@
         <option value="$PROJECT_DIR$/es6/b.js" />
         <option value="$PROJECT_DIR$/01-commonjs/说明" />
         <option value="$PROJECT_DIR$/01-commonjs/b.js" />
+        <option value="$PROJECT_DIR$/inner-module/path-test.js" />
+        <option value="$PROJECT_DIR$/inner-module/css/app.css" />
         <option value="$PROJECT_DIR$/inner-module/index.html" />
         <option value="$PROJECT_DIR$/inner-module/http-server.js" />
       </list>
@@ -137,7 +154,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="818" />
@@ -163,6 +180,12 @@
               <item name="xa-1907-node" type="462c0819:PsiDirectoryNode" />
               <item name="inner-module" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xa-1907-node" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xa-1907-node" type="462c0819:PsiDirectoryNode" />
+              <item name="inner-module" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -173,6 +196,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -207,14 +231,19 @@
     <configuration name="http-server.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="http-server.js" working-dir="$PROJECT_DIR$/inner-module">
       <method v="2" />
     </configuration>
+    <configuration name="path-test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="path-test.js" working-dir="$PROJECT_DIR$/inner-module">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Node.js.helloworld.js" />
       <item itemvalue="Node.js.b.js" />
-      <item itemvalue="Node.js.b.js (1)" />
       <item itemvalue="Node.js.http-server.js" />
+      <item itemvalue="Node.js.helloworld.js" />
+      <item itemvalue="Node.js.b.js (1)" />
+      <item itemvalue="Node.js.path-test.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.path-test.js" />
         <item itemvalue="Node.js.b.js (1)" />
         <item itemvalue="Node.js.helloworld.js" />
       </list>
@@ -230,35 +259,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571099762907</updated>
-      <workItem from="1571099764374" duration="10359000" />
+      <workItem from="1571099764374" duration="10424000" />
+      <workItem from="1571118659085" duration="4517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10359000" />
+    <option name="totallyTimeSpent" value="14941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25431967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49946004" weight="0.6763679" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053996" side_tool="true" weight="0.8265425" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946004" weight="0.8265425" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946004" weight="0.6216531" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Cargo" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946004" weight="0.67520374" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053996" side_tool="true" weight="0.8265425" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,17 +371,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/inner-module/path-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inner-module/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/inner-module/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inner-module/http-server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="346">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
         </state>
       </provider>
     </entry>
