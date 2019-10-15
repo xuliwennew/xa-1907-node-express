@@ -1,0 +1,38 @@
+
+commonjs 模块规则
+模块化的目的: function class serial class
+封装逻辑，
+复用
+团队协作
+
+class Person{
+  eat();
+  sleep();
+
+}
+
+
+可以把一个组相关的代码封装在一个文件中，这个文件是一个模块
+一个.js/.node(c++)/.json 是一个commonjs的模块
+
+模块中能放什么？
+可以是一个变量，方法，类,
+
+commonjs中的模块调用
+1.模块中的所有的代码的访问，私有，
+module.exports export
+暴露
+require("path") ./ ../
+
+
+总结
+1.一个commonjs模块就是一个文件(.js/json/node)
+2.模块的导入导出 module.exports /exports  , require(path)
+3.nodejs
+默认是不支持es module
+
+nodejs 代码的编写是以模块的方式组织在一起的
+模块的分类 :
+1.内置模块 nodejs安装时安装的模块
+2.自定义模式 require
+3.第三方模块 node_modules  require("gulp")
