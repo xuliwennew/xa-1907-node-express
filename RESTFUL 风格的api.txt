@@ -1,0 +1,44 @@
+
+ 
+MEAN angular
+MERN react
+MEVN vue
+
+m: mongodb 
+e: express 
+a: angular
+n: node 
+
+企业开发模式 
+前端 view ui
+后端 database business logic 
+
+
+
+form enctype
+FormData 
+
+RESTFUL 风格的api 目前企业中是常见的一种前端与后端通信息的一种形式
+1.基于HTTP request method : 当method发生变化，服务器可以根据method,对访问的api资源进行操作
+2.URL代表一个网络的资源 united resource locator image css js 
+localhost:3000/images/a.jpg  真实
+www.baidu.com:3000/user  URL user 用户的信息  虚拟地址
+request method : GET 获取用户信息
+                 post req.body 添加到用户信息
+                 PUT 修改，
+                 delelte 删除当前用户信息
+
+客户端可以通过请求动词的变化，实现对网络上分布资源(URL)的访问控制，这种方式的架构，Restful api 
+
+RESTFUL representational state transfer 
+1.method 变化
+2.URL代表一个网络的资源(虚拟)
+www.baidu.com:3000/user 
+www.baidu.com:3000/product?id=1
+ 
+3.返回的数据格式 json XML 
+
+
+
+
+ 

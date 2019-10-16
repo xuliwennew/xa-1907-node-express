@@ -1,0 +1,44 @@
+
+web
+
+MEAN
+
+1.express
+2.koa 1 2
+3.koa -> eggs
+4.eggs
+
+
+nodejs -> google
+
+
+http-> router
+
+image video css
+
+/a
+/b
+
+
+设计模式
+1. 23 GOF gang of four
+
+单例模式->
+代理
+工厂
+
+express 基于nodejs的服务器端的一个mvc的web开发框架 (html的输出是在服务器完成)
+angular 客户端mvc的开发框架 (html输出是在browser)
+
+1.restful api 测试
+前端有能力模拟后端数据的结构
+
+2.webframework-> jsp jdango
+
+
+使用express服务器
+1. npm install express
+2.
+
+router 模块 4.0 npm install express-router
+
